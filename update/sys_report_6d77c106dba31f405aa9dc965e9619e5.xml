@@ -95,20 +95,20 @@
         <sys_created_by>aleck.lin</sys_created_by>
         <sys_created_on>2018-07-28 08:24:50</sys_created_on>
         <sys_id>6d77c106dba31f405aa9dc965e9619e5</sys_id>
-        <sys_mod_count>2</sys_mod_count>
+        <sys_mod_count>3</sys_mod_count>
         <sys_name>EC2 VMs With OS Discovered</sys_name>
         <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
         <sys_policy/>
         <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
         <sys_update_name>sys_report_6d77c106dba31f405aa9dc965e9619e5</sys_update_name>
         <sys_updated_by>aleck.lin</sys_updated_by>
-        <sys_updated_on>2018-07-29 03:23:20</sys_updated_on>
+        <sys_updated_on>2018-07-29 06:49:51</sys_updated_on>
         <table>x_snc_sn_cloud_das_virtual_machine_with_os</table>
         <title>EC2 VMs With OS Discovered</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
-        <trend_field/>
+        <trend_field>vm_state</trend_field>
         <type>bar</type>
         <upper_limit/>
         <use_color_heatmap>false</use_color_heatmap>
