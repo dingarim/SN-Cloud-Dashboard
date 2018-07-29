@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
     <sys_report_users_groups action="INSERT_OR_UPDATE">
         <group_id/>
-        <report_id display_value="EC2 VMs Daily Trend">91a20956db235f405aa9dc965e961913</report_id>
+        <report_id display_value="New EC2 VMs Discovered Daily">91a20956db235f405aa9dc965e961913</report_id>
         <sys_class_name>sys_report_users_groups</sys_class_name>
         <sys_created_by>aleck.lin</sys_created_by>
         <sys_created_on>2018-07-29 02:42:16</sys_created_on>
