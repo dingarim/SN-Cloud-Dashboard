@@ -39,8 +39,8 @@
         <exp_report_attrs>true</exp_report_attrs>
         <field/>
         <field_list>vm_name,vm_state</field_list>
-        <filter table="x_snc_sn_cloud_das_virtual_machine_instances">vm_sys_id=javascript:x_snc_sn_cloud_das.MissingTagVMs()^vm_state!=terminated<item endquery="false" field="vm_sys_id" goto="false" newquery="false" operator="=" or="false" value="javascript:x_snc_sn_cloud_das.MissingTagVMs()"/>
-            <item endquery="false" field="vm_state" goto="false" newquery="false" operator="!=" or="false" value="terminated"/>
+        <filter table="x_snc_sn_cloud_das_virtual_machine_instances">vm_state!=terminated^vm_sys_id=javascript:x_snc_sn_cloud_das.VMsWithTags()<item endquery="false" field="vm_state" goto="false" newquery="false" operator="!=" or="false" value="terminated"/>
+            <item endquery="false" field="vm_sys_id" goto="false" newquery="false" operator="=" or="false" value="javascript:x_snc_sn_cloud_das.VMsWithTags()"/>
         </filter>
         <from/>
         <funnel_neck_percent>30</funnel_neck_percent>
@@ -96,16 +96,16 @@
         <sys_created_by>aleck.lin</sys_created_by>
         <sys_created_on>2018-07-29 02:13:19</sys_created_on>
         <sys_id>950c789edbef1f405aa9dc965e9619a7</sys_id>
-        <sys_mod_count>1</sys_mod_count>
-        <sys_name>EC2 VMs with tag</sys_name>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_name>EC2 VMs with tags</sys_name>
         <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
         <sys_policy/>
         <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
         <sys_update_name>sys_report_950c789edbef1f405aa9dc965e9619a7</sys_update_name>
         <sys_updated_by>aleck.lin</sys_updated_by>
-        <sys_updated_on>2018-07-29 02:16:20</sys_updated_on>
+        <sys_updated_on>2018-07-29 06:37:26</sys_updated_on>
         <table>x_snc_sn_cloud_das_virtual_machine_instances</table>
-        <title>EC2 VMs with tag</title>
+        <title>EC2 VMs with tags</title>
         <title_horizontal_alignment>center</title_horizontal_alignment>
         <title_vertical_alignment>top</title_vertical_alignment>
         <to/>
