@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_grid_canvas" unload_date="2018-09-14 19:09:55">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_grid_canvas" unload_date="2018-09-15 00:12:02">
     <sys_grid_canvas action="INSERT_OR_UPDATE">
         <legacy_page display_value="PA AWS">1d4f384adb631f405aa9dc965e9619ba</legacy_page>
         <name>PA New Tab</name>
@@ -262,6 +262,28 @@
                         </related_items_node>
                         <related_items_node>
                             <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_title</name>
+                                <portal_section display_value="Created 2018-07-28 19:32:32">0b60cd92db235f405aa9dc965e9619a2</portal_section>
+                                <sys_created_by>aleck.lin</sys_created_by>
+                                <sys_created_on>2018-09-15 00:11:10</sys_created_on>
+                                <sys_id>006cefa5dbe42b401c7ef9151d961943</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>aleck.lin</sys_updated_by>
+                                <sys_updated_on>2018-09-15 00:11:10</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>publisher_widget</name>
+                                <portal_section display_value="Created 2018-07-28 19:32:32">0b60cd92db235f405aa9dc965e9619a2</portal_section>
+                                <sys_created_by>aleck.lin</sys_created_by>
+                                <sys_created_on>2018-09-15 00:11:10</sys_created_on>
+                                <sys_id>006cefa5dbe42b401c7ef9151d961944</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>aleck.lin</sys_updated_by>
+                                <sys_updated_on>2018-09-15 00:11:10</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
                                 <name>can_subscribe</name>
                                 <portal_section display_value="Created 2018-07-28 19:32:32">0b60cd92db235f405aa9dc965e9619a2</portal_section>
                                 <sys_created_by>aleck.lin</sys_created_by>
@@ -270,6 +292,72 @@
                                 <sys_mod_count>0</sys_mod_count>
                                 <sys_updated_by>aleck.lin</sys_updated_by>
                                 <sys_updated_on>2018-07-29 02:32:33</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_header</name>
+                                <portal_section display_value="Created 2018-07-28 19:32:32">0b60cd92db235f405aa9dc965e9619a2</portal_section>
+                                <sys_created_by>aleck.lin</sys_created_by>
+                                <sys_created_on>2018-09-15 00:11:10</sys_created_on>
+                                <sys_id>046cefa5dbe42b401c7ef9151d961943</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>aleck.lin</sys_updated_by>
+                                <sys_updated_on>2018-09-15 00:11:10</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>subscriber_widget</name>
+                                <portal_section display_value="Created 2018-07-28 19:32:32">0b60cd92db235f405aa9dc965e9619a2</portal_section>
+                                <sys_created_by>aleck.lin</sys_created_by>
+                                <sys_created_on>2018-09-15 00:11:10</sys_created_on>
+                                <sys_id>046cefa5dbe42b401c7ef9151d961944</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>aleck.lin</sys_updated_by>
+                                <sys_updated_on>2018-09-15 00:11:10</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>title_align</name>
+                                <portal_section display_value="Created 2018-07-28 19:32:32">0b60cd92db235f405aa9dc965e9619a2</portal_section>
+                                <sys_created_by>aleck.lin</sys_created_by>
+                                <sys_created_on>2018-09-15 00:11:10</sys_created_on>
+                                <sys_id>086cefa5dbe42b401c7ef9151d961943</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>aleck.lin</sys_updated_by>
+                                <sys_updated_on>2018-09-15 00:11:10</sys_updated_on>
+                                <value>left</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>filter_indicator</name>
+                                <portal_section display_value="Created 2018-07-28 19:32:32">0b60cd92db235f405aa9dc965e9619a2</portal_section>
+                                <sys_created_by>aleck.lin</sys_created_by>
+                                <sys_created_on>2018-09-15 00:11:10</sys_created_on>
+                                <sys_id>086cefa5dbe42b401c7ef9151d961944</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>aleck.lin</sys_updated_by>
+                                <sys_updated_on>2018-09-15 00:11:10</sys_updated_on>
+                                <value>false</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>show_border</name>
+                                <portal_section display_value="Created 2018-07-28 19:32:32">0b60cd92db235f405aa9dc965e9619a2</portal_section>
+                                <sys_created_by>aleck.lin</sys_created_by>
+                                <sys_created_on>2018-09-15 00:11:10</sys_created_on>
+                                <sys_id>0c6cefa5dbe42b401c7ef9151d961943</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>aleck.lin</sys_updated_by>
+                                <sys_updated_on>2018-09-15 00:11:10</sys_updated_on>
+                                <value>true</value>
+                            </sys_portal_preferences>
+                            <sys_portal_preferences action="INSERT_OR_UPDATE">
+                                <name>real_time</name>
+                                <portal_section display_value="Created 2018-07-28 19:32:32">0b60cd92db235f405aa9dc965e9619a2</portal_section>
+                                <sys_created_by>aleck.lin</sys_created_by>
+                                <sys_created_on>2018-09-15 00:11:10</sys_created_on>
+                                <sys_id>0c6cefa5dbe42b401c7ef9151d961944</sys_id>
+                                <sys_mod_count>0</sys_mod_count>
+                                <sys_updated_by>aleck.lin</sys_updated_by>
+                                <sys_updated_on>2018-09-15 00:11:10</sys_updated_on>
                                 <value>true</value>
                             </sys_portal_preferences>
                             <sys_portal_preferences action="INSERT_OR_UPDATE">

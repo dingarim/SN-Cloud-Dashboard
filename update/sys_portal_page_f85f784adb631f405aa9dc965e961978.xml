@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2018-09-14 19:09:57">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2018-09-15 00:12:04">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
         <order/>
@@ -574,6 +574,17 @@
                         <value>com.glide.ui.portal.RenderReport</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_title</name>
+                        <portal_section display_value="Created 2018-09-14 11:56:16">1b44e2e9db602b401c7ef9151d9619a4</portal_section>
+                        <sys_created_by>aleck.lin</sys_created_by>
+                        <sys_created_on>2018-09-15 00:05:27</sys_created_on>
+                        <sys_id>5c1babe1dbe42b401c7ef9151d96190e</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>aleck.lin</sys_updated_by>
+                        <sys_updated_on>2018-09-15 00:05:27</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
                         <portal_section display_value="Created 2018-09-14 11:56:16">1b44e2e9db602b401c7ef9151d9619a4</portal_section>
                         <sys_created_by>aleck.lin</sys_created_by>
@@ -596,6 +607,39 @@
                         <value>single_score</value>
                     </sys_portal_preferences>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>publisher_widget</name>
+                        <portal_section display_value="Created 2018-09-14 11:56:16">1b44e2e9db602b401c7ef9151d9619a4</portal_section>
+                        <sys_created_by>aleck.lin</sys_created_by>
+                        <sys_created_on>2018-09-15 00:05:27</sys_created_on>
+                        <sys_id>d01babe1dbe42b401c7ef9151d961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>aleck.lin</sys_updated_by>
+                        <sys_updated_on>2018-09-15 00:05:27</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_header</name>
+                        <portal_section display_value="Created 2018-09-14 11:56:16">1b44e2e9db602b401c7ef9151d9619a4</portal_section>
+                        <sys_created_by>aleck.lin</sys_created_by>
+                        <sys_created_on>2018-09-15 00:05:27</sys_created_on>
+                        <sys_id>d41babe1dbe42b401c7ef9151d96190f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>aleck.lin</sys_updated_by>
+                        <sys_updated_on>2018-09-15 00:05:27</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>subscriber_widget</name>
+                        <portal_section display_value="Created 2018-09-14 11:56:16">1b44e2e9db602b401c7ef9151d9619a4</portal_section>
+                        <sys_created_by>aleck.lin</sys_created_by>
+                        <sys_created_on>2018-09-15 00:05:27</sys_created_on>
+                        <sys_id>d41babe1dbe42b401c7ef9151d961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>aleck.lin</sys_updated_by>
+                        <sys_updated_on>2018-09-15 00:05:27</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
                         <portal_section display_value="Created 2018-09-14 11:56:16">1b44e2e9db602b401c7ef9151d9619a4</portal_section>
                         <sys_created_by>aleck.lin</sys_created_by>
@@ -604,6 +648,50 @@
                         <sys_mod_count>0</sys_mod_count>
                         <sys_updated_by>aleck.lin</sys_updated_by>
                         <sys_updated_on>2018-09-14 18:56:16</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>title_align</name>
+                        <portal_section display_value="Created 2018-09-14 11:56:16">1b44e2e9db602b401c7ef9151d9619a4</portal_section>
+                        <sys_created_by>aleck.lin</sys_created_by>
+                        <sys_created_on>2018-09-15 00:05:27</sys_created_on>
+                        <sys_id>d81babe1dbe42b401c7ef9151d96190f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>aleck.lin</sys_updated_by>
+                        <sys_updated_on>2018-09-15 00:05:27</sys_updated_on>
+                        <value>left</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>filter_indicator</name>
+                        <portal_section display_value="Created 2018-09-14 11:56:16">1b44e2e9db602b401c7ef9151d9619a4</portal_section>
+                        <sys_created_by>aleck.lin</sys_created_by>
+                        <sys_created_on>2018-09-15 00:05:27</sys_created_on>
+                        <sys_id>d81babe1dbe42b401c7ef9151d961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>aleck.lin</sys_updated_by>
+                        <sys_updated_on>2018-09-15 00:05:27</sys_updated_on>
+                        <value>false</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>show_border</name>
+                        <portal_section display_value="Created 2018-09-14 11:56:16">1b44e2e9db602b401c7ef9151d9619a4</portal_section>
+                        <sys_created_by>aleck.lin</sys_created_by>
+                        <sys_created_on>2018-09-15 00:05:27</sys_created_on>
+                        <sys_id>dc1babe1dbe42b401c7ef9151d96190f</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>aleck.lin</sys_updated_by>
+                        <sys_updated_on>2018-09-15 00:05:27</sys_updated_on>
+                        <value>true</value>
+                    </sys_portal_preferences>
+                    <sys_portal_preferences action="INSERT_OR_UPDATE">
+                        <name>real_time</name>
+                        <portal_section display_value="Created 2018-09-14 11:56:16">1b44e2e9db602b401c7ef9151d9619a4</portal_section>
+                        <sys_created_by>aleck.lin</sys_created_by>
+                        <sys_created_on>2018-09-15 00:05:27</sys_created_on>
+                        <sys_id>dc1babe1dbe42b401c7ef9151d961910</sys_id>
+                        <sys_mod_count>0</sys_mod_count>
+                        <sys_updated_by>aleck.lin</sys_updated_by>
+                        <sys_updated_on>2018-09-15 00:05:27</sys_updated_on>
                         <value>true</value>
                     </sys_portal_preferences>
                 </related_items_node>

@@ -3,7 +3,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>name</element>
-            <list_id display_value="cmdb_ci_vm_instance" element="NULL" name="cmdb_ci_vm_instance" parent="NULL" relationship="NULL" sys_domain="global" view="2001854edb631f405aa9dc965e961936">fc01854edb631f405aa9dc965e96197b</list_id>
+            <list_id display_value="cmdb_ci_vm_instance" element="NULL" name="cmdb_ci_vm_instance" parent="NULL" relationship="NULL" sys_domain="global" view="b526272ddba42b401c7ef9151d961927">fc01854edb631f405aa9dc965e96197b</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>0</position>
@@ -18,7 +18,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>last_discovered</element>
-            <list_id display_value="cmdb_ci_vm_instance" element="NULL" name="cmdb_ci_vm_instance" parent="NULL" relationship="NULL" sys_domain="global" view="2001854edb631f405aa9dc965e961936">fc01854edb631f405aa9dc965e96197b</list_id>
+            <list_id display_value="cmdb_ci_vm_instance" element="NULL" name="cmdb_ci_vm_instance" parent="NULL" relationship="NULL" sys_domain="global" view="b526272ddba42b401c7ef9151d961927">fc01854edb631f405aa9dc965e96197b</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>1</position>
@@ -33,7 +33,7 @@
         <sys_ui_list_element action="INSERT_OR_UPDATE">
             <average_value>false</average_value>
             <element>state</element>
-            <list_id display_value="cmdb_ci_vm_instance" element="NULL" name="cmdb_ci_vm_instance" parent="NULL" relationship="NULL" sys_domain="global" view="2001854edb631f405aa9dc965e961936">fc01854edb631f405aa9dc965e96197b</list_id>
+            <list_id display_value="cmdb_ci_vm_instance" element="NULL" name="cmdb_ci_vm_instance" parent="NULL" relationship="NULL" sys_domain="global" view="b526272ddba42b401c7ef9151d961927">fc01854edb631f405aa9dc965e96197b</list_id>
             <max_value>false</max_value>
             <min_value>false</min_value>
             <position>2</position>
@@ -70,7 +70,7 @@
             <sys_updated_by>aleck.lin</sys_updated_by>
             <sys_updated_on>2018-07-28 07:56:39</sys_updated_on>
             <sys_user/>
-            <view display_value="Rptac01854edb631f405aa9dc965e961931" name="RPTac01854edb631f405aa9dc965e961931">2001854edb631f405aa9dc965e961936</view>
+            <view display_value="Rptac01854edb631f405aa9dc965e961931" name="RPTac01854edb631f405aa9dc965e961931">b526272ddba42b401c7ef9151d961927</view>
             <view_name/>
         </sys_ui_list>
     </sys_ui_list>
