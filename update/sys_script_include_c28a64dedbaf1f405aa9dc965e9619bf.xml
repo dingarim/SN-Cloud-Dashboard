@@ -3,6 +3,7 @@
         <access>public</access>
         <active>true</active>
         <api_name>x_snc_sn_cloud_das.VMsWithTags</api_name>
+        <caller_access/>
         <client_callable>true</client_callable>
         <description>Return an array of sys_id that contains VMs that already have tags associated with it</description>
         <name>VMsWithTags</name>
