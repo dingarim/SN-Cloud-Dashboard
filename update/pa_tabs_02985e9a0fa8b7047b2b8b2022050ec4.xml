@@ -2,7 +2,7 @@
     <pa_tabs action="INSERT_OR_UPDATE">
         <canvas_page display_value="PA New Tab">c2981a5a0fa8b7047b2b8b2022050ed1</canvas_page>
         <name>New Tab</name>
-        <page display_value="PA New Tab">02981a5a0fa8b7047b2b8b2022050ed0</page>
+        <page display_value="PA K8">02981a5a0fa8b7047b2b8b2022050ed0</page>
         <sys_class_name>pa_tabs</sys_class_name>
         <sys_created_by>aleck.lin</sys_created_by>
         <sys_created_on>2019-04-03 22:11:43</sys_created_on>

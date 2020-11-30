@@ -2,7 +2,7 @@
     <sys_report_source action="INSERT_OR_UPDATE">
         <description/>
         <display>Azure Virtual Machine Instances (Virtual Machine Instance)</display>
-        <filter table="x_snc_sn_cloud_das_virtual_machine_instances">dc_sys_class_name=cmdb_ci_azure_datacenter<item endquery="false" field="dc_sys_class_name" goto="false" newquery="false" operator="=" or="false" value="cmdb_ci_azure_datacenter"/>
+        <filter table="x_snc_sn_cloud_das_virtual_machine_instances">dc_sys_class_name=cmdb_ci_azure_datacenter<item display_value="cmdb_ci_azure_datacenter" endquery="false" field="dc_sys_class_name" goto="false" newquery="false" operator="=" or="false" value="cmdb_ci_azure_datacenter"/>
         </filter>
         <name>Azure Virtual Machine Instances</name>
         <sys_class_name>sys_report_source</sys_class_name>

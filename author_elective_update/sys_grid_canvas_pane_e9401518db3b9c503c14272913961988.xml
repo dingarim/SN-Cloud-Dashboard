@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane">
+    <sys_grid_canvas_pane action="DELETE">
+        <grid_canvas display_value="PA Cloud Discovery Dash - New Tab 3">2e5f01d4db3b9c503c142729139619ff</grid_canvas>
+        <height>10</height>
+        <portal_widget display_value="Created 2020-10-07 11:54:07">d78265dcdb7b9c503c14272913961935</portal_widget>
+        <posx>0</posx>
+        <posy>10</posy>
+        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-07 17:34:16</sys_created_on>
+        <sys_id>e9401518db3b9c503c14272913961988</sys_id>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>2e5f01d4db3b9c503c142729139619ff</sys_name>
+        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
+        <sys_update_name>sys_grid_canvas_pane_e9401518db3b9c503c14272913961988</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-07 18:54:07</sys_updated_on>
+        <width>12</width>
+    </sys_grid_canvas_pane>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</application>
+        <file_path/>
+        <instance_id>c871fe86dbd31818406350b6f4961936</instance_id>
+        <instance_name>mdparislivedemo</instance_name>
+        <name>sys_grid_canvas_pane_e9401518db3b9c503c14272913961988</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas_pane"><sys_grid_canvas_pane action="INSERT_OR_UPDATE"><grid_canvas display_value="PA Cloud Discovery Dash - New Tab 3">2e5f01d4db3b9c503c142729139619ff</grid_canvas><height>10</height><portal_widget display_value="Created 2020-10-07 11:54:07">d78265dcdb7b9c503c14272913961935</portal_widget><posx>0</posx><posy>10</posy><sys_class_name>sys_grid_canvas_pane</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-07 17:34:16</sys_created_on><sys_id>e9401518db3b9c503c14272913961988</sys_id><sys_mod_count>3</sys_mod_count><sys_name>2e5f01d4db3b9c503c142729139619ff</sys_name><sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package><sys_policy/><sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope><sys_update_name>sys_grid_canvas_pane_e9401518db3b9c503c14272913961988</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-07 18:54:07</sys_updated_on><width>12</width></sys_grid_canvas_pane></record_update>]]></payload>
+        <payload_hash>-959099641</payload_hash>
+        <record_name>2e5f01d4db3b9c503c142729139619ff</record_name>
+        <reverted_from/>
+        <source>12eb0950db3b9c503c14272913961987</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-07 18:54:07</sys_created_on>
+        <sys_id>df8265dcdb7b9c503c1427291396196b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1750469da3c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-07 18:54:07</sys_updated_on>
+        <type>Grid Canvas Pane</type>
+        <update_guid>1b8265dc867b9c50ee1955834747c86b</update_guid>
+        <update_guid_history>1b8265dc867b9c50ee1955834747c86b:-959099641,4882e1dcec7b9c509ff9461e2b0290a6:-1678781670,c882e1dc907b9c5059db5d8a2eff679f:-866573328,254015187f3b9c5041e501cbb843f98a:258432979</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-07 18:59:22</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas_pane">sys_grid_canvas_pane</sys_db_object>
+        <sys_id>bda33cce3cd34dfb8f4b2256260fce99</sys_id>
+        <sys_metadata>e9401518db3b9c503c14272913961988</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>2e5f01d4db3b9c503c142729139619ff</sys_name>
+        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
+        <sys_scope_delete display_value="">4bf7a286c37b4539be98d3ef529fb711</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_pane_e9401518db3b9c503c14272913961988</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_pane_e9401518db3b9c503c14272913961988">df8265dcdb7b9c503c1427291396196b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-07 18:59:22</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

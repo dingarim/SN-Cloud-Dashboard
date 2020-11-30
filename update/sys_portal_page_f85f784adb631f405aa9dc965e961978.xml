@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2019-04-03 22:20:17">
+<?xml version="1.0" encoding="UTF-8"?><record_update node_type="sys_portal_page" unload_date="2020-11-30 21:32:42">
     <sys_portal_page action="INSERT_OR_UPDATE">
         <layout/>
         <order/>
@@ -35,28 +35,6 @@
                 <sys_mod_count>1</sys_mod_count>
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-07-29 00:31:14</sys_updated_on>
-                <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>5</height>
-                        <portal_widget display_value="Created 2018-07-28 17:31:14">06a4a01adbaf1f405aa9dc965e96197f</portal_widget>
-                        <posx>2</posx>
-                        <posy>4</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-07-29 00:31:14</sys_created_on>
-                        <sys_id>42a4a01adbaf1f405aa9dc965e961981</sys_id>
-                        <sys_mod_count>75</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_42a4a01adbaf1f405aa9dc965e961981</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:03:03</sys_updated_on>
-                        <width>2</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
@@ -226,28 +204,6 @@
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-09-14 18:33:27</sys_updated_on>
                 <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>5</height>
-                        <portal_widget display_value="Created 2018-09-14 11:33:27">0d1f5a25db602b401c7ef9151d961971</portal_widget>
-                        <posx>2</posx>
-                        <posy>32</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-09-14 18:33:27</sys_created_on>
-                        <sys_id>491f5a25db602b401c7ef9151d961973</sys_id>
-                        <sys_mod_count>48</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_491f5a25db602b401c7ef9151d961973</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:05:00</sys_updated_on>
-                        <width>2</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
-                <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
                         <portal_section display_value="Created 2018-09-14 11:33:27">0d1f5a25db602b401c7ef9151d961971</portal_section>
@@ -416,28 +372,6 @@
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-07-29 03:31:29</sys_updated_on>
                 <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>7</height>
-                        <portal_widget display_value="Created 2018-07-28 20:31:29">1aedc552db635f405aa9dc965e961945</portal_widget>
-                        <posx>0</posx>
-                        <posy>17</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-07-29 03:31:29</sys_created_on>
-                        <sys_id>56edc552db635f405aa9dc965e961947</sys_id>
-                        <sys_mod_count>68</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_56edc552db635f405aa9dc965e961947</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:03:04</sys_updated_on>
-                        <width>6</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
-                <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
                         <portal_section display_value="Created 2018-07-28 20:31:29">1aedc552db635f405aa9dc965e961945</portal_section>
@@ -517,28 +451,6 @@
                 <sys_mod_count>1</sys_mod_count>
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-09-14 18:56:16</sys_updated_on>
-                <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>5</height>
-                        <portal_widget display_value="Created 2018-09-14 11:56:16">1b44e2e9db602b401c7ef9151d9619a4</portal_widget>
-                        <posx>0</posx>
-                        <posy>37</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-09-14 18:56:16</sys_created_on>
-                        <sys_id>5744e2e9db602b401c7ef9151d9619a6</sys_id>
-                        <sys_mod_count>24</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_5744e2e9db602b401c7ef9151d9619a6</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:05:46</sys_updated_on>
-                        <width>2</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
@@ -708,28 +620,6 @@
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-09-14 18:55:36</sys_updated_on>
                 <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>5</height>
-                        <portal_widget display_value="Created 2018-09-14 11:55:36">2124a2e9db602b401c7ef9151d96190d</portal_widget>
-                        <posx>8</posx>
-                        <posy>37</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-09-14 18:55:36</sys_created_on>
-                        <sys_id>2524a2e9db602b401c7ef9151d96198c</sys_id>
-                        <sys_mod_count>36</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_2524a2e9db602b401c7ef9151d96198c</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:05:41</sys_updated_on>
-                        <width>2</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
-                <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
                         <portal_section display_value="Created 2018-09-14 11:55:36">2124a2e9db602b401c7ef9151d96190d</portal_section>
@@ -897,28 +787,6 @@
                 <sys_mod_count>1</sys_mod_count>
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-09-14 18:56:25</sys_updated_on>
-                <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>5</height>
-                        <portal_widget display_value="Created 2018-09-14 11:56:25">2954e2e9db602b401c7ef9151d9619ee</portal_widget>
-                        <posx>2</posx>
-                        <posy>37</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-09-14 18:56:25</sys_created_on>
-                        <sys_id>6554e2e9db602b401c7ef9151d9619f0</sys_id>
-                        <sys_mod_count>19</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_6554e2e9db602b401c7ef9151d9619f0</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:05:26</sys_updated_on>
-                        <width>2</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_header</name>
@@ -1088,28 +956,6 @@
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-09-14 06:29:56</sys_updated_on>
                 <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>8</height>
-                        <portal_widget display_value="Created 2018-09-13 23:29:56">2a797315dbe4e7401c7ef9151d961920</portal_widget>
-                        <posx>0</posx>
-                        <posy>9</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-09-14 06:29:56</sys_created_on>
-                        <sys_id>a6797315dbe4e7401c7ef9151d961922</sys_id>
-                        <sys_mod_count>55</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_a6797315dbe4e7401c7ef9151d961922</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:03:04</sys_updated_on>
-                        <width>10</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
-                <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
                         <portal_section display_value="Created 2018-09-13 23:29:56">2a797315dbe4e7401c7ef9151d961920</portal_section>
@@ -1190,28 +1036,6 @@
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-07-29 00:31:22</sys_updated_on>
                 <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>8</height>
-                        <portal_widget display_value="Created 2018-07-28 17:31:22">33a4e01adbaf1f405aa9dc965e9619f8</portal_widget>
-                        <posx>0</posx>
-                        <posy>24</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-07-29 00:31:22</sys_created_on>
-                        <sys_id>7fa4e01adbaf1f405aa9dc965e9619f9</sys_id>
-                        <sys_mod_count>82</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_7fa4e01adbaf1f405aa9dc965e9619f9</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:03:04</sys_updated_on>
-                        <width>6</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
-                <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
                         <portal_section display_value="Created 2018-07-28 17:31:22">33a4e01adbaf1f405aa9dc965e9619f8</portal_section>
@@ -1291,28 +1115,6 @@
                 <sys_mod_count>1</sys_mod_count>
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-07-29 00:32:57</sys_updated_on>
-                <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>15</height>
-                        <portal_widget display_value="Created 2018-07-28 17:32:57">4305a81adbaf1f405aa9dc965e9619fc</portal_widget>
-                        <posx>6</posx>
-                        <posy>17</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-07-29 00:32:57</sys_created_on>
-                        <sys_id>8f05a81adbaf1f405aa9dc965e9619fd</sys_id>
-                        <sys_mod_count>67</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_8f05a81adbaf1f405aa9dc965e9619fd</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:03:04</sys_updated_on>
-                        <width>4</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
@@ -1482,28 +1284,6 @@
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-09-14 17:46:50</sys_updated_on>
                 <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>5</height>
-                        <portal_widget display_value="Created 2018-09-14 10:46:50">46641ee9db202b401c7ef9151d961963</portal_widget>
-                        <posx>6</posx>
-                        <posy>32</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-09-14 17:46:50</sys_created_on>
-                        <sys_id>82641ee9db202b401c7ef9151d961966</sys_id>
-                        <sys_mod_count>35</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_82641ee9db202b401c7ef9151d961966</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:05:09</sys_updated_on>
-                        <width>2</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
-                <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
                         <portal_section display_value="Created 2018-09-14 10:46:50">46641ee9db202b401c7ef9151d961963</portal_section>
@@ -1671,28 +1451,6 @@
                 <sys_mod_count>1</sys_mod_count>
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-09-14 18:56:11</sys_updated_on>
-                <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>5</height>
-                        <portal_widget display_value="Created 2018-09-14 11:56:11">4e4462e9db602b401c7ef9151d96195e</portal_widget>
-                        <posx>0</posx>
-                        <posy>32</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-09-14 18:56:11</sys_created_on>
-                        <sys_id>0a4426e9db602b401c7ef9151d961995</sys_id>
-                        <sys_mod_count>34</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_0a4426e9db602b401c7ef9151d961995</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:04:28</sys_updated_on>
-                        <width>2</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
@@ -1862,28 +1620,6 @@
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-09-14 06:24:21</sys_updated_on>
                 <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>5</height>
-                        <portal_widget display_value="Created 2018-09-13 23:24:21">7c387791dbe4e7401c7ef9151d961912</portal_widget>
-                        <posx>4</posx>
-                        <posy>4</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-09-14 06:24:21</sys_created_on>
-                        <sys_id>3c383b91dbe4e7401c7ef9151d96196f</sys_id>
-                        <sys_mod_count>56</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_3c383b91dbe4e7401c7ef9151d96196f</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:03:03</sys_updated_on>
-                        <width>2</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
-                <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>can_subscribe</name>
                         <portal_section display_value="Created 2018-09-13 23:24:21">7c387791dbe4e7401c7ef9151d961912</portal_section>
@@ -2051,28 +1787,6 @@
                 <sys_mod_count>1</sys_mod_count>
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-07-29 00:31:11</sys_updated_on>
-                <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>5</height>
-                        <portal_widget display_value="Created 2018-07-28 17:31:10">85a4201adbaf1f405aa9dc965e961947</portal_widget>
-                        <posx>0</posx>
-                        <posy>4</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-07-29 00:31:11</sys_created_on>
-                        <sys_id>41a4e01adbaf1f405aa9dc965e9619ef</sys_id>
-                        <sys_mod_count>77</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_41a4e01adbaf1f405aa9dc965e9619ef</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:03:03</sys_updated_on>
-                        <width>2</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>help_text_window</name>
@@ -2242,28 +1956,6 @@
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-09-14 18:56:40</sys_updated_on>
                 <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>5</height>
-                        <portal_widget display_value="Created 2018-09-14 11:56:40">9164e6e9db602b401c7ef9151d96193e</portal_widget>
-                        <posx>0</posx>
-                        <posy>42</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-09-14 18:56:40</sys_created_on>
-                        <sys_id>dd64e6e9db602b401c7ef9151d96193f</sys_id>
-                        <sys_mod_count>12</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_dd64e6e9db602b401c7ef9151d96193f</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:05:46</sys_updated_on>
-                        <width>2</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
-                <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
                         <portal_section display_value="Created 2018-09-14 11:56:40">9164e6e9db602b401c7ef9151d96193e</portal_section>
@@ -2431,28 +2123,6 @@
                 <sys_mod_count>1</sys_mod_count>
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-07-29 03:50:57</sys_updated_on>
-                <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>5</height>
-                        <portal_widget display_value="Created 2018-07-28 20:50:57">a3521916db635f405aa9dc965e96196e</portal_widget>
-                        <posx>8</posx>
-                        <posy>4</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-07-29 03:50:57</sys_created_on>
-                        <sys_id>af521196db635f405aa9dc965e961931</sys_id>
-                        <sys_mod_count>61</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_af521196db635f405aa9dc965e961931</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:03:04</sys_updated_on>
-                        <width>2</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>show_title</name>
@@ -2622,28 +2292,6 @@
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-09-14 18:56:34</sys_updated_on>
                 <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>5</height>
-                        <portal_widget display_value="Created 2018-09-14 11:56:34">b75426e9db602b401c7ef9151d961923</portal_widget>
-                        <posx>6</posx>
-                        <posy>37</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-09-14 18:56:34</sys_created_on>
-                        <sys_id>f35426e9db602b401c7ef9151d961925</sys_id>
-                        <sys_mod_count>17</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_f35426e9db602b401c7ef9151d961925</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:05:09</sys_updated_on>
-                        <width>2</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
-                <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
                         <portal_section display_value="Created 2018-09-14 11:56:34">b75426e9db602b401c7ef9151d961923</portal_section>
@@ -2811,28 +2459,6 @@
                 <sys_mod_count>1</sys_mod_count>
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-09-14 18:56:30</sys_updated_on>
-                <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>5</height>
-                        <portal_widget display_value="Created 2018-09-14 11:56:30">ba54a6e9db602b401c7ef9151d9619c5</portal_widget>
-                        <posx>4</posx>
-                        <posy>37</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-09-14 18:56:30</sys_created_on>
-                        <sys_id>f654a6e9db602b401c7ef9151d9619c7</sys_id>
-                        <sys_mod_count>26</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_f654a6e9db602b401c7ef9151d9619c7</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:05:32</sys_updated_on>
-                        <width>2</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>report_type</name>
@@ -3002,28 +2628,6 @@
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-09-14 06:33:02</sys_updated_on>
                 <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>4</height>
-                        <portal_widget display_value="Created 2018-09-13 23:33:02">c83abf15dbe4e7401c7ef9151d961909</portal_widget>
-                        <posx>0</posx>
-                        <posy>0</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-09-14 06:33:02</sys_created_on>
-                        <sys_id>483abf15dbe4e7401c7ef9151d96190b</sys_id>
-                        <sys_mod_count>53</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_483abf15dbe4e7401c7ef9151d96190b</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:03:03</sys_updated_on>
-                        <width>10</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
-                <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>
                         <portal_section display_value="Created 2018-09-13 23:33:02">c83abf15dbe4e7401c7ef9151d961909</portal_section>
@@ -3103,28 +2707,6 @@
                 <sys_mod_count>1</sys_mod_count>
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-09-14 18:55:59</sys_updated_on>
-                <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>5</height>
-                        <portal_widget display_value="Created 2018-09-14 11:55:59">cb3462e9db602b401c7ef9151d9619ca</portal_widget>
-                        <posx>2</posx>
-                        <posy>42</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-09-14 18:55:59</sys_created_on>
-                        <sys_id>0b3462e9db602b401c7ef9151d9619cc</sys_id>
-                        <sys_mod_count>32</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_0b3462e9db602b401c7ef9151d9619cc</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:05:53</sys_updated_on>
-                        <width>2</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
@@ -3294,28 +2876,6 @@
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-07-29 03:31:16</sys_updated_on>
                 <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>5</height>
-                        <portal_widget display_value="Created 2018-07-28 20:31:15">cbdd8152db635f405aa9dc965e96191c</portal_widget>
-                        <posx>6</posx>
-                        <posy>4</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-07-29 03:31:16</sys_created_on>
-                        <sys_id>4bddc552db635f405aa9dc965e961920</sys_id>
-                        <sys_mod_count>65</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_4bddc552db635f405aa9dc965e961920</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:03:04</sys_updated_on>
-                        <width>2</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
-                <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title_align</name>
                         <portal_section display_value="Created 2018-07-28 20:31:15">cbdd8152db635f405aa9dc965e96191c</portal_section>
@@ -3484,28 +3044,6 @@
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-09-14 18:56:38</sys_updated_on>
                 <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>5</height>
-                        <portal_widget display_value="Created 2018-09-14 11:56:38">e06466e9db602b401c7ef9151d9619c6</portal_widget>
-                        <posx>8</posx>
-                        <posy>32</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-09-14 18:56:38</sys_created_on>
-                        <sys_id>206466e9db602b401c7ef9151d9619c8</sys_id>
-                        <sys_mod_count>13</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_206466e9db602b401c7ef9151d9619c8</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:05:04</sys_updated_on>
-                        <width>2</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
-                <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>title</name>
                         <portal_section display_value="Created 2018-09-14 11:56:38">e06466e9db602b401c7ef9151d9619c6</portal_section>
@@ -3673,28 +3211,6 @@
                 <sys_mod_count>1</sys_mod_count>
                 <sys_updated_by>aleck.lin</sys_updated_by>
                 <sys_updated_on>2018-09-14 18:33:21</sys_updated_on>
-                <related_items_node>
-                    <sys_grid_canvas_pane action="INSERT_OR_UPDATE">
-                        <grid_canvas display_value="PA New Tab 2">f05f784adb631f405aa9dc965e961979</grid_canvas>
-                        <height>5</height>
-                        <portal_widget display_value="Created 2018-09-14 11:33:21">eb0f9a25db602b401c7ef9151d961908</portal_widget>
-                        <posx>4</posx>
-                        <posy>32</posy>
-                        <sys_class_name>sys_grid_canvas_pane</sys_class_name>
-                        <sys_created_by>aleck.lin</sys_created_by>
-                        <sys_created_on>2018-09-14 18:33:21</sys_created_on>
-                        <sys_id>230fde25db602b401c7ef9151d9619e0</sys_id>
-                        <sys_mod_count>34</sys_mod_count>
-                        <sys_name>f05f784adb631f405aa9dc965e961979</sys_name>
-                        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
-                        <sys_policy/>
-                        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
-                        <sys_update_name>sys_grid_canvas_pane_230fde25db602b401c7ef9151d9619e0</sys_update_name>
-                        <sys_updated_by>aleck.lin</sys_updated_by>
-                        <sys_updated_on>2018-09-14 19:04:56</sys_updated_on>
-                        <width>2</width>
-                    </sys_grid_canvas_pane>
-                </related_items_node>
                 <related_items_node>
                     <sys_portal_preferences action="INSERT_OR_UPDATE">
                         <name>sys_id</name>

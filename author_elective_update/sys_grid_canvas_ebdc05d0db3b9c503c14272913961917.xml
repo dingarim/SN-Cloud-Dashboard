@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas">
+    <sys_grid_canvas action="DELETE">
+        <legacy_page display_value="PA Cloud Discovery Dash - New Tab 3">6fdc05d0db3b9c503c14272913961916</legacy_page>
+        <name>PA Cloud Discovery Dash - New Tab 3</name>
+        <sys_class_name>sys_grid_canvas</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-07 17:19:23</sys_created_on>
+        <sys_id>ebdc05d0db3b9c503c14272913961917</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Cloud Discovery Dash - New Tab 3</sys_name>
+        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
+        <sys_update_name>sys_grid_canvas_ebdc05d0db3b9c503c14272913961917</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-07 17:19:23</sys_updated_on>
+    </sys_grid_canvas>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</application>
+        <file_path/>
+        <instance_id>c871fe86dbd31818406350b6f4961936</instance_id>
+        <instance_name>mdparislivedemo</instance_name>
+        <name>sys_grid_canvas_ebdc05d0db3b9c503c14272913961917</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_grid_canvas"><sys_grid_canvas action="INSERT_OR_UPDATE"><legacy_page display_value="PA Cloud Discovery Dash - New Tab 3">6fdc05d0db3b9c503c14272913961916</legacy_page><name>PA Cloud Discovery Dash - New Tab 3</name><sys_class_name>sys_grid_canvas</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-07 17:19:23</sys_created_on><sys_id>ebdc05d0db3b9c503c14272913961917</sys_id><sys_mod_count>0</sys_mod_count><sys_name>PA Cloud Discovery Dash - New Tab 3</sys_name><sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package><sys_policy/><sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope><sys_update_name>sys_grid_canvas_ebdc05d0db3b9c503c14272913961917</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-07 17:19:23</sys_updated_on></sys_grid_canvas></record_update>]]></payload>
+        <payload_hash>1520080395</payload_hash>
+        <record_name>PA Cloud Discovery Dash - New Tab 3</record_name>
+        <reverted_from/>
+        <source>12eb0950db3b9c503c14272913961987</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-07 17:19:23</sys_created_on>
+        <sys_id>afdc05d0db3b9c503c14272913961919</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17504131fc40000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-07 17:19:23</sys_updated_on>
+        <type>Grid Canvas</type>
+        <update_guid>a7dc05d0e43b9c503c6465b242b88919</update_guid>
+        <update_guid_history>a7dc05d0e43b9c503c6465b242b88919:1520080395</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-07 17:19:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_grid_canvas">sys_grid_canvas</sys_db_object>
+        <sys_id>72adf567d49943029f4ba64ecb1410e4</sys_id>
+        <sys_metadata>ebdc05d0db3b9c503c14272913961917</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PA Cloud Discovery Dash - New Tab 3</sys_name>
+        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
+        <sys_scope_delete display_value="">4bf7a286c37b4539be98d3ef529fb711</sys_scope_delete>
+        <sys_update_name>sys_grid_canvas_ebdc05d0db3b9c503c14272913961917</sys_update_name>
+        <sys_update_version display_value="sys_grid_canvas_ebdc05d0db3b9c503c14272913961917">afdc05d0db3b9c503c14272913961919</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-07 17:19:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

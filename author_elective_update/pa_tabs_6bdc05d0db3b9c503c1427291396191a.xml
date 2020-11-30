@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs">
+    <pa_tabs action="DELETE">
+        <canvas_page/>
+        <name>Cloud Discovery Dash - New Tab 3</name>
+        <page/>
+        <sys_class_name>pa_tabs</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-07 17:19:23</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>6bdc05d0db3b9c503c1427291396191a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cloud Discovery Dash - New Tab 3</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
+        <sys_update_name>pa_tabs_6bdc05d0db3b9c503c1427291396191a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-07 17:19:23</sys_updated_on>
+    </pa_tabs>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</application>
+        <file_path/>
+        <instance_id>c871fe86dbd31818406350b6f4961936</instance_id>
+        <instance_name>mdparislivedemo</instance_name>
+        <name>pa_tabs_6bdc05d0db3b9c503c1427291396191a</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="pa_tabs"><pa_tabs action="INSERT_OR_UPDATE"><canvas_page/><name>Cloud Discovery Dash - New Tab 3</name><page/><sys_class_name>pa_tabs</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2020-10-07 17:19:23</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>6bdc05d0db3b9c503c1427291396191a</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Cloud Discovery Dash - New Tab 3</sys_name><sys_overrides/><sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package><sys_policy/><sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope><sys_update_name>pa_tabs_6bdc05d0db3b9c503c1427291396191a</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2020-10-07 17:19:23</sys_updated_on></pa_tabs></record_update>]]></payload>
+        <payload_hash>601196356</payload_hash>
+        <record_name>Cloud Discovery Dash - New Tab 3</record_name>
+        <reverted_from/>
+        <source>12eb0950db3b9c503c14272913961987</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-07 17:19:34</sys_created_on>
+        <sys_id>5aecc5d0db3b9c503c14272913961944</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17504134bca0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-07 17:19:34</sys_updated_on>
+        <type>Tab</type>
+        <update_guid>e7dc05d0b43b9c5068ae8b5b4b8c9c1c</update_guid>
+        <update_guid_history>e7dc05d0b43b9c5068ae8b5b4b8c9c1c:-650590177,e7dc05d0b43b9c5068ae8b5b4b8c9c1c:-650590177,e7dc05d0b43b9c5068ae8b5b4b8c9c1c:-650590177</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Cloud Discovery Dash - New Tab 3">5aecc5d0db3b9c503c1427291396194a</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-10-07 17:19:34</sys_created_on>
+        <sys_db_object display_value="" name="pa_tabs">pa_tabs</sys_db_object>
+        <sys_id>73155b748cbc4f00b5ae085baae4e900</sys_id>
+        <sys_metadata>6bdc05d0db3b9c503c1427291396191a</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Cloud Discovery Dash - New Tab 3</sys_name>
+        <sys_package display_value="SN Cloud Dashboard" source="x_snc_sn_cloud_das">1e7bb8c2db631f405aa9dc965e96192d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="SN Cloud Dashboard">1e7bb8c2db631f405aa9dc965e96192d</sys_scope>
+        <sys_scope_delete display_value="">4bf7a286c37b4539be98d3ef529fb711</sys_scope_delete>
+        <sys_update_name>pa_tabs_6bdc05d0db3b9c503c1427291396191a</sys_update_name>
+        <sys_update_version display_value="pa_tabs_6bdc05d0db3b9c503c1427291396191a">5aecc5d0db3b9c503c14272913961944</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-10-07 17:19:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
